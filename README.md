@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<div align="center"><img width="2000" height="250" src="https://raw.githubusercontent.com/amantech05/amantech05/main/banner.jpg"></div>
+
 <h3 align="center">A passionate CSE Student from Delhi, India. !!...</h3>
 <img align ="right" alt="Development" width="370" height="280" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
 
