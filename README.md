@@ -29,7 +29,6 @@ https://amantech05.itch.io/3d-platformer
 - Unreal Engine
 - Unity
 - Blender
-- C#
 - Blueprints
 - 3D Modeling
 - Materials & Lighting
