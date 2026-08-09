@@ -53,5 +53,5 @@ and presentation-focused 3D assets using Blender.
 
 ## 📫 Contact
 
-LinkedIn: [your LinkedIn]
-Email: [your email]
+LinkedIn: [https://www.linkedin.com/in/aman-b88927273/]
+Email: [amaku023@gmail.com]
